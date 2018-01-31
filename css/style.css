@@ -151,8 +151,8 @@ section ul li:before {
 	border-color: rgba(255,255,255,.02)
 }
 .navbar-default .navbar-toggle {
-	background-color: black;
-	border-color: black;
+	background-color: #000000;
+	border-color: #000000;
 }
 .navbar-default .navbar-toggle .icon-bar {
 	background-color: #fff
